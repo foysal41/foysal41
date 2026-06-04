@@ -29,7 +29,7 @@
 
 | Project                | Description                                                                                    | Live                                                         | Tech                          |
 | ---------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------------------------- |
-| **Doc Appoint**        | Full-stack doctor appointment booking platform with authentication and appointment management. | [Live](https://vercel.com/foysal-jamans-projects/docappoint) | Next.js, MongoDB, Express.js  |
+| **Doc Appoint**        | Full-stack doctor appointment booking platform with authentication and appointment management. | [Live](https://docappoint-murex.vercel.app/)                 | Next.js, MongoDB, React.js    |
 | **SkillSphere**        | Secure online learning platform with Better Auth and course management.                        | [Live](https://b13-a8-skill-sphere-theta.vercel.app/)        | Next.js, MongoDB, Better Auth |
 | **DigiTools Platform** | Digital productivity tools marketplace with responsive UI.                                     | [Live](https://b13-a6-digi-tools-platform-ten.vercel.app/)   | React.js, Tailwind CSS        |
 ---
