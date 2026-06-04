@@ -36,7 +36,7 @@
 
 ## 💼 Professional Experience
 
-* **Digital Marketing & WordPress Support**
+* **WordPress Support & Digital Marketing **
 
   * RishTech Global (June 2025 - Present)
 
