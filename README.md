@@ -5,15 +5,15 @@
 
 <br/>
 
-<!-- Typing Header Banner -->
+<!-- Typing Header Banner (Primary Brand Color: #B97BFF) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Foysal+Jaman;Junior+Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+TypeScript+%7C+MERN+%26+PostgreSQL;AI+Workflows+%26+n8n+Automation+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=B97BFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Foysal+Jaman;Junior+Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+TypeScript+%7C+MERN+%26+PostgreSQL;AI+Workflows+%26+n8n+Automation+Builder" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=foysal41&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=foysal41&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
   <a href="https://foysal-jaman.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-5B21B6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/foysaljaman007" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -53,7 +53,7 @@
       <h4 align="center">🛍️ Shopora</h4>
       <p align="center">
         <a href="https://shopora-ashen.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Shopora Live" />
+          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Shopora Live" />
         </a>
       </p>
       <p>AI-powered multi-vendor e-commerce platform with role-based dashboards, search/filtering, cart, wishlist, checkout, coupons, and AI content/recommendation tools.</p>
@@ -63,7 +63,7 @@
       <h4 align="center">🎓 NextSkill</h4>
       <p align="center">
         <a href="https://nextskill-three.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="NextSkill Live" />
+          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="NextSkill Live" />
         </a>
       </p>
       <p>Full-stack Learning Management System (LMS) featuring Better Auth authentication, protected routes, course management, dynamic search, filtering, and sorting.</p>
@@ -73,7 +73,7 @@
       <h4 align="center">🩺 Doc Appoint</h4>
       <p align="center">
         <a href="https://docappoint-murex.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Doc Appoint Live" />
+          <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Doc Appoint Live" />
         </a>
       </p>
       <p>Doctor appointment booking platform with specialty/name search, dynamic doctor profiles, authenticated booking dashboard, and JWT-protected APIs.</p>
@@ -160,16 +160,15 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=foysal41&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Foysal's GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=foysal41&theme=tokyonight&hide_border=true&background=0D1117" alt="Foysal's GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=foysal41&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B97BFF&icon_color=B97BFF" alt="Foysal's GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=foysal41&theme=tokyonight&hide_border=true&background=0D1117&ring=B97BFF&fire=7C3AED&currStreakLabel=B97BFF" alt="Foysal's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysal41&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foysal41&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B97BFF" alt="Top Languages" />
 </p>
 
 ---
-
 
 ### 🌐 Connect with Me
 
@@ -181,7 +180,7 @@
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://foysal-jaman.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://codeforces.com/profile/foysal411" target="_blank">
     <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
